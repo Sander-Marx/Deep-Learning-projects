@@ -5,4 +5,3 @@ Deliverables include
 
 We include the folder with figures so that the figures can be rendered in the jupyter notebook.
 
-We deliver the files in a zip file as well as delivering the report and notebook separately to make sure all the deliveries are in order.
